@@ -105,15 +105,17 @@ To further enhance analysis, BioGaze integrates several AI models:
 
 1. **Clone the Repository**
 
-First, clone the BioGaze repository from GitHub:
+  First, clone the BioGaze repository from GitHub:
 
-```bash
-  git clone https://github.com/Maphoz/BioGaze.git
-  cd BioGaze
+  ```bash
+    git clone https://github.com/Maphoz/BioGaze.git
+    cd BioGaze
+  ```
 
 2. **Install Dependencies**
 
-Install the required Python packages as specified in the requirements.txt file:
+  Install the required Python packages as specified in the requirements.txt file:
 
-```bash
-  pip install -r requirements.txt
+  ```bash
+    pip install -r requirements.txt
+  ```
