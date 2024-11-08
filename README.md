@@ -36,11 +36,11 @@ To further enhance analysis, BioGaze integrates several AI models:
 2. **Emotion Recognition** - Identifies the emotional expression, ensuring compliance with a neutral expression.
 3. **Head Pose Estimation** - Assesses the orientation of the face for frontal pose requirements.
 
-<div align="center">
+<div align="center" style="margin: 15px 30px;">
   <img src="resources_readme/emo_test.png" alt="Base Image" width="250" />
   <img src="resources_readme/emo_rec.png" alt="Emotion recognition" width="250" />
 </div>
-<div align="center">
+<div align="center" style="margin: 15px 30px;">
   <img src="resources_readme/gaze_img.png" alt="Base Image" width="250" />
   <img src="resources_readme/gaze.png" alt="Gaze estimation" width="250" />
 </div>
