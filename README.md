@@ -1,5 +1,8 @@
 # BioGaze: Face Quality Analysis for ICAO/ISO Standards
 
+<div align="center">
+  <img src="resources_readme/logo_clean_bg.png" alt="BioGaze Logo" width="450" />
+</div>
 ## Description
 *// Placeholder for general description of the BioGaze software.*
 
