@@ -5,6 +5,19 @@
 
 ---
 
+## Requirements Verified
+
+| **Subject**            | **Photographic**       | **Acquisition**           |
+|------------------------|------------------------|----------------------------|
+| Head without covering  | Correct exposure       | Uniform background         |
+| Gaze in camera         | In focus photo         | Uniform face lighting      |
+| No/light makeup        | Correct saturation     | No pixelation              |
+| Neutral expression     | Proper face dimension  | No posterization           |
+| No sunglasses          |                        |                            |
+| Eyes open              |                        |                            |
+| Frontal Pose           |                        |                            |
+
+
 ### Core Tasks
 
 BioGaze performs face quality analysis based on three essential tasks, each contributing to ICAO and ISO standard compliance:
