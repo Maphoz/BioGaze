@@ -14,10 +14,10 @@ BioGaze performs face quality analysis based on three essential tasks, each cont
 3. **Face Parsing** - Segments facial regions to analyze structural qualities of the face.
 
 <div align="center">
-  <img src="resources/test.png" alt="Base Image" width="200" />
-  <img src="resources/test_detect.png" alt="Face detection" width="200" />
-  <img src="resources/test_landmark.png" alt="Landmark detection" width="200" />
-  <img src="resources/test_parsing.png" alt="Face parsing" width="200" />
+  <img src="resources_readme/test.png" alt="Base Image" width="200" />
+  <img src="resources_readme/test_detect.png" alt="Face detection" width="200" />
+  <img src="resources_readme/test_landmark.png" alt="Landmark detection" width="200" />
+  <img src="resources_readme/test_parsing.png" alt="Face parsing" width="200" />
 </div>
 
 ---
@@ -31,8 +31,8 @@ To further enhance analysis, BioGaze integrates several AI models:
 3. **Head Pose Estimation** - Assesses the orientation of the face for frontal pose requirements.
 
 <div align="center">
-  <img src="resources/emo_test.png" alt="Base Image" width="200" />
-  <img src="resources/emo_rec.png" alt="Emotion recognition" width="200" />
+  <img src="resources_readme/emo_test.png" alt="Base Image" width="200" />
+  <img src="resources_readme/emo_rec.png" alt="Emotion recognition" width="200" />
 </div>
 <div align="center">
   <img src="resources/gaze_img.png" alt="Base Image" width="200" />
