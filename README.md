@@ -12,9 +12,9 @@
 <table>
   <thead>
     <tr>
-      <th style="background-color: black; color: white; padding: 8px;">Subject</th>
-      <th style="background-color: black; color: white; padding: 8px;">Photographic</th>
-      <th style="background-color: black; color: white; padding: 8px;">Acquisition</th>
+      <th style="background-color: black; color: white; padding: 8;">Subject</th>
+      <th style="background-color: black; color: white; padding: 8;">Photographic</th>
+      <th style="background-color: black; color: white; padding: 8;">Acquisition</th>
     </tr>
   </thead>
   <tbody>
