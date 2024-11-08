@@ -149,9 +149,9 @@ The `specific_checks.py` script allows you to perform specific checks on an imag
 
 #### Usage
 
-"bash
+```bash
 python specific_checks.py -i <image_path> -c <checks_list>
-"
+```
 
 - **Required Arguments**:
   - `-i`, `--input`: Path to the image file for analysis.
@@ -164,13 +164,15 @@ python specific_checks.py -i <image_path> -c <checks_list>
 
 You can view a list of available checks by running:
 
-"bash
+```bash
 python specific_checks.py --list-checks
-"
+```
 
 This will display all checks with their corresponding IDs, such as `HEAD_WITHOUT_COVERING`, `EYES_OPEN`, etc.
 
 #### Output
 
 After execution, the script provides a result for each specified check, indicating if the image meets each respective criterion.
+
+---
 
