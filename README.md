@@ -119,3 +119,25 @@ To further enhance analysis, BioGaze integrates several AI models:
   ```bash
     pip install -r requirements.txt
   ```
+
+## How to Use
+
+### face_tool.py
+
+The `face_tool.py` script enables processing of face images by running face detection, landmark recognition, and face parsing on a specified image file or directory of images. Each of these tasks can be performed individually, and results can be saved to an output directory if specified, otherwise they get saved in predefined directories within each task's folder.
+
+#### Usage
+
+```bash
+python face_tool.py -i <input_path> [-d] [-l] [-p] [-o <output_path>]
+```
+
+- **Required Arguments**:
+  - `-i`, `--input`: Path to an image file or directory containing images.
+
+- **Optional Arguments**:
+  - `-d`, `--detect`: Perform face detection.
+  - `-l`, `--landmark`: Perform landmark detection.
+  - `-p`, `--parse`: Perform face parsing.
+  - `-o`, `--output`: Specify an optional output path to save processed images. If not provided, processed images are saved in the default directory.
+
