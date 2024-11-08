@@ -4,7 +4,7 @@
 
 ## BioGaze: Face Image Analysis Software for ISO/ICAO Compliance Verification
 
-**BioGaze** is an advanced face image analysis software that combines state-of-the-art AI models with computer vision techniques to rigorously verify compliance with ISO/ICAO standards. Developed in collaboration with the (BioLab at the University of Bologna)[https://miatbiolab.csr.unibo.it/], BioGaze aims to provide an automated, accurate, and reliable solution for assessing facial image quality according to international standards, often required for official documentation like passports and ID cards.
+**BioGaze** is an advanced face image analysis software that combines state-of-the-art AI models with computer vision techniques to rigorously verify compliance with ISO/ICAO standards. Developed in collaboration with the [BioLab at the University of Bologna](https://miatbiolab.csr.unibo.it/), BioGaze aims to provide an automated, accurate, and reliable solution for assessing facial image quality according to international standards, often required for official documentation like passports and ID cards.
 
 ### Key Features
 
@@ -14,7 +14,7 @@
 
 ### Development and Testing
 
-BioGaze was developed and refined in collaboration with the University of Bologna's BioLab, using the (BioLab benchmark)[https://biolab.csr.unibo.it/fvcongoing/UI/Form/BenchmarkAreas/BenchmarkAreaFICV.aspx] to develop and validate its methods. Final testing was conducted on the (TONO dataset)[https://miatbiolab.csr.unibo.it/tono-synthetic-dataset/], enabling the software to be optimized for high performance on a diverse set of facial images.
+BioGaze was developed and refined in collaboration with the University of Bologna's BioLab, using the [BioLab benchmark](https://biolab.csr.unibo.it/fvcongoing/UI/Form/BenchmarkAreas/BenchmarkAreaFICV.aspx) to develop and validate its methods. Final testing was conducted on the [TONO dataset](https://miatbiolab.csr.unibo.it/tono-synthetic-dataset/), enabling the software to be optimized for high performance on a diverse set of facial images.
 
 This open-source project aims to provide a robust, accessible tool for professionals and researchers seeking an automated solution for face image quality analysis and compliance verification. With its rigorous approach and AI-enhanced functionalities, BioGaze sets a new standard in face image compliance assessment.
 
