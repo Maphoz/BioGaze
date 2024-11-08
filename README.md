@@ -141,3 +141,36 @@ python face_tool.py -i <input_path> [-d] [-l] [-p] [-o <output_path>]
   - `-p`, `--parse`: Perform face parsing.
   - `-o`, `--output`: Specify an optional output path to save processed images. If not provided, processed images are saved in the default directory.
 
+---
+
+### specific_checks.py
+
+The `specific_checks.py` script allows you to perform specific checks on an image to evaluate various quality and compliance standards. You can specify which checks to run using a list of integers corresponding to different checks or write `all` to run all available checks.
+
+#### Usage
+
+"bash
+python specific_checks.py -i <image_path> -c <checks_list>
+"
+
+- **Required Arguments**:
+  - `-i`, `--input`: Path to the image file for analysis.
+  - `-c`, `--checks`: A list of integers representing checks to perform (e.g., `0 2 6 7`) or the option `all` to perform all checks.
+
+- **Optional Argument**:
+  - `--list-checks`: Use this flag to display all available checks and their descriptions.
+
+#### Available Checks
+
+You can view a list of available checks by running:
+
+"bash
+python specific_checks.py --list-checks
+"
+
+This will display all checks with their corresponding IDs, such as `HEAD_WITHOUT_COVERING`, `EYES_OPEN`, etc.
+
+#### Output
+
+After execution, the script provides a result for each specified check, indicating if the image meets each respective criterion.
+
