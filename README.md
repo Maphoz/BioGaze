@@ -98,3 +98,22 @@ To further enhance analysis, BioGaze integrates several AI models:
   <img src="resources_readme/gaze_img.png" alt="Base Image" width="250" />
   <img src="resources_readme/gaze.png" alt="Gaze estimation" width="250" />
 </div>
+
+---
+
+## How to Install
+
+1. **Clone the Repository**
+
+First, clone the BioGaze repository from GitHub:
+
+```bash
+  git clone https://github.com/Maphoz/BioGaze.git
+  cd BioGaze
+
+2. **Install Dependencies**
+
+Install the required Python packages as specified in the requirements.txt file:
+
+```bash
+  pip install -r requirements.txt
