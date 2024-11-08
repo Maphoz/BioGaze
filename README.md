@@ -122,6 +122,33 @@ To further enhance analysis, BioGaze integrates several AI models:
 
 ## How to Use
 
+### quality_analysis.py
+
+The `quality_analysis.py` script performs a comprehensive analysis on all checks for an individual image or an entire directory of images. It generates detailed results and summary files, providing both individual and overall performance metrics for image quality and compliance.
+
+#### Usage
+
+```bash
+python quality_analysis.py -i <input_path> [-o <output_path>]
+```
+
+- **Required Argument**:
+  - `-i`, `--input`: Path to a single image or a directory containing multiple images to be analyzed.
+
+- **Optional Argument**:
+  - `-o`, `--output`: Specify a path for the output file where the detailed results will be saved. If not provided, the default file `verbose_result.txt` will be created in the current directory.
+
+#### Output Files
+
+1. **Verbose Analysis** (`verbose_result.txt` or specified output path): 
+   - A detailed summary of the analysis, listing how many images met the requirements and how many did not.
+   - Provides feedback on any specific requirements that were not met, along with suggestions or notes for improvement.
+
+2. **Tabulated Results** (`table_results.txt`):
+   - A structured table listing all control checks performed, along with important metrics for each image, such as **IED** (Inter-Eye Distance) and **Yaw**, **Pitch**, and **Roll** (pose metrics)
+
+---
+
 ### face_tool.py
 
 The `face_tool.py` script enables processing of face images by running face detection, landmark recognition, and face parsing on a specified image file or directory of images. Each of these tasks can be performed individually, and results can be saved to an output directory if specified, otherwise they get saved in predefined directories within each task's folder.
