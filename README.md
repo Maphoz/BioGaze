@@ -7,15 +7,56 @@
 
 ## Requirements Verified
 
-| **Subject**            | **Photographic**       | **Acquisition**           |
-|------------------------|------------------------|----------------------------|
-| Head without covering  | Correct exposure       | Uniform background         |
-| Gaze in camera         | In focus photo         | Uniform face lighting      |
-| No/light makeup        | Correct saturation     | No pixelation              |
-| Neutral expression     | Proper face dimension  | No posterization           |
-| No sunglasses          |                        |                            |
-| Eyes open              |                        |                            |
-| Frontal Pose           |                        |                            |
+<div align="center">
+
+<table>
+  <thead>
+    <tr>
+      <th style="background-color: black; color: white; padding: 8px;">Subject</th>
+      <th style="background-color: black; color: white; padding: 8px;">Photographic</th>
+      <th style="background-color: black; color: white; padding: 8px;">Acquisition</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Head without covering</td>
+      <td>Correct exposure</td>
+      <td>Uniform background</td>
+    </tr>
+    <tr>
+      <td>Gaze in camera</td>
+      <td>In focus photo</td>
+      <td>Uniform face lighting</td>
+    </tr>
+    <tr>
+      <td>No/light makeup</td>
+      <td>Correct saturation</td>
+      <td>No pixelation</td>
+    </tr>
+    <tr>
+      <td>Neutral expression</td>
+      <td>Proper face dimension</td>
+      <td>No posterization</td>
+    </tr>
+    <tr>
+      <td>No sunglasses</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Eyes open</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Frontal Pose</td>
+      <td></td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+
+</div>
 
 
 ### Core Tasks
