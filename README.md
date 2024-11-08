@@ -14,11 +14,24 @@ BioGaze performs face quality analysis based on three essential tasks, each cont
 3. **Face Parsing** - Segments facial regions to analyze structural qualities of the face.
 
 <div align="center">
-  <img src="resources_readme/test.png" alt="Base Image" width="200" />
-  <img src="resources_readme/test_detect.png" alt="Face detection" width="200" />
-  <img src="resources_readme/test_landmark.png" alt="Landmark detection" width="200" />
-  <img src="resources_readme/test_parsing_2.png" alt="Face parsing" width="200" />
+  <figure>
+    <img src="resources_readme/test.png" alt="Base Image" width="200" />
+    <figcaption>Base Image</figcaption>
+  </figure>
+  <figure>
+    <img src="resources_readme/test_detect.png" alt="Face detection" width="200" />
+    <figcaption>Face Detection</figcaption>
+  </figure>
+  <figure>
+    <img src="resources_readme/test_landmark.png" alt="Landmark detection" width="200" />
+    <figcaption>Landmark Detection</figcaption>
+  </figure>
+  <figure>
+    <img src="resources_readme/test_parsing_2.png" alt="Face parsing" width="200" />
+    <figcaption>Face Parsing</figcaption>
+  </figure>
 </div>
+
 
 ---
 
