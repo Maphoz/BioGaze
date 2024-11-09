@@ -137,8 +137,9 @@ To further enhance analysis, BioGaze integrates several AI models:
 
 3. **Download Required Checkpoints**
 
-   - You must download the **dlib checkpoint** from [this link](https://drive.google.com/file/d/1Xkwoou-5xTg_o8zq7hih5bZF3BaXtnU5/view?usp=sharing) and place it in the `dlib_checkpoint` directory.
+   - You must download the **dlib checkpoint** from [this link](https://drive.google.com/file/d/1Xkwoou-5xTg_o8zq7hih5bZF3BaXtnU5/view?usp=sharing) and place it in the `dlib_checkpoint` directory and in the `gaze_estimation/modules` directory.
    - You must download the **face parser checkpoint** from [this link](https://drive.google.com/file/d/1Hvd6tDmCVuF0KUtFIZQ_WXKlQvcHTQbm/view?usp=sharing) and place it in `face_parser/res/cp` directory.
+   - You must download the **gaze estimation checkpoint** from [this link](https://drive.google.com/file/d/1bAjhZeTwSgVMf48m8VWfHFBN7EbVjZRW/view?usp=sharing) and place it in `gaze_estimation/ckpt` directory.
 
 
 ## How to Use
