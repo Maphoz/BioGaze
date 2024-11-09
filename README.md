@@ -218,3 +218,13 @@ After execution, the script provides a result for each specified check, indicati
 
 ---
 
+## References
+
+- [Face-parsing model](https://github.com/zllrunning/face-parsing.PyTorch)
+- [Face-detection model](https://github.com/ultralytics/ultralytics)
+- [Landmark-detection library](https://github.com/davisking/dlib)
+- [Gaze-estimation model](https://github.com/xucong-zhang/ETH-XGaze)
+- [Face expression recognition model](https://github.com/phamquiluan/ResidualMaskingNetwork)
+- [TONO dataset](https://miatbiolab.csr.unibo.it/tono-synthetic-dataset/)
+- [BioLab-benchmark](https://biolab.csr.unibo.it/fvcongoing/UI/Form/BenchmarkAreas/BenchmarkAreaFICV.aspx)
+
