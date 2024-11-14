@@ -1,0 +1,10 @@
+opencv-python
+torch
+torchvision
+tabulate
+ultralytics==8.0.0
+dlib
+mediapipe
+scikit-image
+rmn
+imutils
